@@ -538,7 +538,6 @@ class _HomeState extends State<Home> {
                         ),
                       ),
 
-
                       Card(
                         elevation: 10,
                         child: Container(
